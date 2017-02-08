@@ -1,4 +1,4 @@
-#!/Users/anvu/dev_workspace/jagslist-django/ENV/bin/python
+#!/Users/anvu/dev_workspace/jagslist_django/ENV/bin/python
 
 import sys
 import getopt

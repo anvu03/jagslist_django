@@ -1,4 +1,4 @@
-#!/Users/anvu/dev_workspace/jagslist-django/ENV/bin/python
+#!/Users/anvu/dev_workspace/jagslist_django/ENV/bin/python3
 
 # -*- coding: utf-8 -*-
 import re

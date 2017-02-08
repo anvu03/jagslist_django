@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/anvu/dev_workspace/jagslist-django/ENV"
+VIRTUAL_ENV="/Users/anvu/dev_workspace/jagslist_django/ENV"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
